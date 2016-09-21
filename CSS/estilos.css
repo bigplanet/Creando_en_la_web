@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+#contenidos{
+background-color:#006680;
+}
+#navegacionprincipal{
+	
+	background-color: #FF5900;
+	color: #FFF;
+	}
+#barralateral{
+	background-color: #F2B80D;
+	float: left;
+	height: 700px;
+	color: #FFF;
+	font-family: "Franklin Gothic Heavy";
+}
+#barralateraliz{
+	background-color: #F2B80D;
+	float: right;
+	height: 700px;
+	color: #FFF;
+	font-family: "Franklin Gothic Heavy";
+	}	
+#contenidoprincipal{
+	background-image:url(../fondos/flores-azules.jpg);
+	margin-left:200;
+	padding-left:15px;
+	padding-top:15px;
+	}
+#pieprincipal{
+	clear:both;
+	margin-top:50px;
+	}
+body{
+	background-image:url(../fondos/spring.jpg);
+	background-repeat: no-repeat;
+	text-align: center;
+}
+li{background-color:#006680;
+display:inline;
+}
+
